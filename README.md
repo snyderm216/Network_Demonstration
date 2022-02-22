@@ -5,7 +5,7 @@ Network Map.png
 These files have been tested and used to generate a live ELK deployment on Azure. 
 They can be used in their entirety to recreate the entire deployment pictured above or separated to accomplish subtasks (Such as installing Filebeat).
 
-#TODO Add-in playbook folder
+#https://github.com/snyderm216/Network_Demonstration/tree/main/YAML_Playbooks
 
 
 This document contains the following details:
