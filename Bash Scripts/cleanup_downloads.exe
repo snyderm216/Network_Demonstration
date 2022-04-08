@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#Move Doctor files out of download
+mv ~/Downloads/doctors*.docx /usr/share/doctors
+
+#Move Treatment files out of download
+mv ~/Downloads/treatments*.docx /usr/share/treatments
+
+#Move patient files out of download
+mv ~/Downloads/patients*.docx /usr/share/patients
+
